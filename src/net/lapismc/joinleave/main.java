@@ -78,7 +78,7 @@ public class main extends JavaPlugin implements Listener {
     @EventHandler(priority = EventPriority.HIGHEST, ignoreCancelled = true)
     public void onPlayerJoin(PlayerJoinEvent e) {
         if (!players.contains(e.getPlayer().getUniqueId())) {
-            e.setJoinMessage(ChatColor.translateAlternateColorCodes('&', getConfig().getString("FirstJoin").replace("(player)", e.getPlayer().getName())));
+            Bukkit.broadcastMessage(ChatColor.translateAlternateColorCodes('&', getConfig().getString("FirstJoin").replace("(player)", e.getPlayer().getName())));
             players.add(e.getPlayer().getUniqueId());
         }
         e.setJoinMessage(ChatColor.translateAlternateColorCodes('&', getConfig().getString("Join").replace("(player)", e.getPlayer().getName())));
