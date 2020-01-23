@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="added stuff to gitignore and fixed first join message">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JoinandLeave_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JoinandLeave_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Updated name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Join and Leave Messages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoinandLeave.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +10,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="C:\Users\benjamin\IdeaProjects\Join and Leave Messages" />
+    <option name="PATCH_PATH" value="C:\Users\benjamin\IdeaProjects\JoinandLeave" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Join and Leave Messages" />
+    <favorites_list name="JoinandLeave" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
@@ -340,7 +334,8 @@
       <workItem from="1459467969661" duration="111000" />
       <workItem from="1459649713998" duration="890000" />
       <workItem from="1579750776437" duration="492000" />
-      <workItem from="1579751574866" duration="33000" />
+      <workItem from="1579751574866" duration="119000" />
+      <workItem from="1579751697567" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff to gitignore and fixed first join message">
       <created>1459650415927</created>
@@ -349,11 +344,21 @@
       <option name="project" value="LOCAL" />
       <updated>1459650415927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated name">
+      <created>1579751642396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579751642396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -366,7 +371,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="added stuff to gitignore and fixed first join message" />
-    <option name="LAST_COMMIT_MESSAGE" value="added stuff to gitignore and fixed first join message" />
+    <MESSAGE value="Updated name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated name" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -380,22 +386,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2730" y="416" width="300" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579750936303" />
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751402165">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2" timestamp="1579751642264">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751402165" />
-    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751402165">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751642264" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751693046">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751402165" />
-    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751402165">
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693046" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751693045">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751402165" />
-    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751402165">
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693045" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751693045">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751402165" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693045" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751693046">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693046" />
     <state x="2376" y="159" key="SettingsEditor" timestamp="1579751246374">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
