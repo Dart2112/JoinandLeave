@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Updated name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,6 +336,7 @@
       <workItem from="1579750776437" duration="492000" />
       <workItem from="1579751574866" duration="119000" />
       <workItem from="1579751697567" duration="7000" />
+      <workItem from="1579751875177" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff to gitignore and fixed first join message">
       <created>1459650415927</created>
