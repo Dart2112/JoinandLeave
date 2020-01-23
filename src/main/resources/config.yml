@@ -1,5 +1,3 @@
 ## Set the message to be displayed in chat when a player joins or leaves the server, use (player) for the players name
-## Make sure you leave the ' on each end of the message or it wont work
-FirstJoin: '&8[&9Welcome To Server] &6(player)'
 Join: '&8[&a+&8] &6(player)'
 Quit: '&8[&4-&8] &6(player)'

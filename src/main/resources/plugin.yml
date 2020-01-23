@@ -1,0 +1,4 @@
+name: JoinandLeave
+version: ${project.version}
+api-version: "1.15"
+main: net.lapismc.joinleave.JoinLeave
