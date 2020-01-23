@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="JoinandLeave.jar">
     <output-path>$USER_HOME$/Desktop/Java Dev Stuff/plugins</output-path>
     <root id="archive" name="JoinandLeave.jar">
-      <element id="module-output" name="Join and Leave Messages" />
+      <element id="module-output" name="JoinandLeave" />
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
     </root>

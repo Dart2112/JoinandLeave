@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Join and Leave Messages" />
+        <module name="JoinandLeave" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Join and Leave Messages" target="1.8" />
+      <module name="JoinandLeave" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
