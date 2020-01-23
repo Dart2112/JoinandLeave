@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Updated name">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Fixed the name finally">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Build_JoinAndLeave.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Build_JoinandLeave.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,6 +338,7 @@
       <workItem from="1579751574866" duration="119000" />
       <workItem from="1579751697567" duration="7000" />
       <workItem from="1579751875177" duration="16000" />
+      <workItem from="1579751894409" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff to gitignore and fixed first join message">
       <created>1459650415927</created>
@@ -352,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579751642396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed the name finally">
+      <created>1579751914703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579751914703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,40 +382,41 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="added stuff to gitignore and fixed first join message" />
     <MESSAGE value="Updated name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated name" />
+    <MESSAGE value="Fixed the name finally" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the name finally" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2338" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579751268750">
+    <state x="2338" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579751927081">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2338" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751268750" />
+    <state x="2338" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751927081" />
     <state x="2730" y="416" width="300" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579750936303">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2730" y="416" width="300" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579750936303" />
-    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2" timestamp="1579751642264">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2" timestamp="1579751914552">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751642264" />
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751693046">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751914552" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751929067">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693046" />
-    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751693045">
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751929067">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693045" />
-    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751693045">
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751929067">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693045" />
-    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751693046">
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751929067">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751693046" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
     <state x="2376" y="159" key="SettingsEditor" timestamp="1579751246374">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
