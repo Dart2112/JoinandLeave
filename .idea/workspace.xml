@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Fixed the name finally">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Build_JoinAndLeave.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Build_JoinandLeave.xml" afterDir="false" />
+    <list default="true" id="841a53a3-1f79-443d-90c9-3b90d6167e6e" name="Default" comment="Update run profile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +99,61 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -183,61 +237,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorDevice" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="clearAppDataOnEachLaunch" value="true" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -256,36 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -338,7 +309,7 @@
       <workItem from="1579751574866" duration="119000" />
       <workItem from="1579751697567" duration="7000" />
       <workItem from="1579751875177" duration="16000" />
-      <workItem from="1579751894409" duration="34000" />
+      <workItem from="1579751894409" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff to gitignore and fixed first join message">
       <created>1459650415927</created>
@@ -361,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579751914703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update run profile">
+      <created>1579751939915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579751939915</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +361,8 @@
     <MESSAGE value="added stuff to gitignore and fixed first join message" />
     <MESSAGE value="Updated name" />
     <MESSAGE value="Fixed the name finally" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed the name finally" />
+    <MESSAGE value="Update run profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update run profile" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -397,26 +376,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2730" y="416" width="300" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579750936303" />
-    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2" timestamp="1579751914552">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2" timestamp="1579751939781">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751914552" />
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751929067">
+    <state x="2470" y="121" width="810" height="801" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751939781" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1579751954347">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
-    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751929067">
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751954347" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1579751954346">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
-    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751929067">
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751954346" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1579751954346">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
-    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751929067">
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751954346" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1579751954346">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751929067" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579751954346" />
     <state x="2376" y="159" key="SettingsEditor" timestamp="1579751246374">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
